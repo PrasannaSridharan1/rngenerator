@@ -54,6 +54,4 @@ app/
 components/
   random-generator.tsx # Core generator UI and logic
   theme-toggle.tsx     # Light/dark theme switcher
-public/
-  prajna-ai-logo.png   # Brand logo
 ```
